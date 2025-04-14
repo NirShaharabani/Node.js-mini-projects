@@ -20,3 +20,4 @@
     "extends": ["github>whitesource/merge-confidence:beta"]
   }
 }
+
